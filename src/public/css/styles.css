@@ -1,0 +1,20 @@
+body{
+    /* font-family: 'Spicy Rice', cursive; */
+    font-family: cursive;
+
+    /* https://uigradients.com/#Stellar */
+    /*background: #7474BF;  /* fallback for old browsers */
+    /*background: -webkit-linear-gradient(to right, #348AC7, #7474BF);  /* Chrome 10-25, Safari 5.1-6 */
+    /*background: linear-gradient(to right, #348AC7, #7474BF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    /* https://uigradients.com/#Instagram */
+    background: #833ab4;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+/* #instagram{
+    width: 250px;
+    height: 250px;
+} */
